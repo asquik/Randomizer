@@ -16,6 +16,7 @@ namespace Randomizer
         }
 
         int count = 0;
+        //somecomments
         void Button_Clicked(object sender, System.EventArgs e)
         {
             count++;
